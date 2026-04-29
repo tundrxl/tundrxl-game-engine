@@ -1,0 +1,6 @@
+{
+  "name": "xlTundr Game Engine",
+  "description": "A high-performance HTML game engine runner and previewer. Upload and run .html games instantly in a secure environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
